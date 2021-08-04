@@ -1,1 +1,1 @@
-console.log("HELLO WORLD");
+ini adalah tugas uji kom saya
